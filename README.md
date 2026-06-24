@@ -3,7 +3,7 @@
 
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=js,html,css,java&theme=dark)](https://github.com/hellokenzo/)
+  [![proglang](https://skillicons.dev/icons?i=js,html,css,java,react,nextjs&theme=dark)](https://github.com/hellokenzo/)
 
 
 ## ⚙️ Tools:
